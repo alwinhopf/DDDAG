@@ -1,4 +1,6 @@
 main:
+  - title: "Use Case Explorer"
+    url: /use-case-explorer/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
