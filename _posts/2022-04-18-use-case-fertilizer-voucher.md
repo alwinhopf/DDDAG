@@ -2,22 +2,13 @@
 title: "Use Case: Fertilizer Voucher"
 date: 2022-04-18T15:34:30-04:00
 categories:
-  - blog
+  - usecase
 tags:
-  - Jekyll
-  - update
+  - fertilizer
+  - subsidy
+  - e-voucher
 ---
 
-...
-
-Example Code:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+This is an example use case for a fertilizer voucher system
 
 ...
