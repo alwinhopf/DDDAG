@@ -2,13 +2,16 @@
 title: "Use Case: Deforestation Mapping"
 date: 2022-08-18T15:34:30-04:00
 categories:
-  - blog
+  - usecase
 tags:
-  - Jekyll
-  - update
+  - satellite
+  - monitoring
+  - evaluation
+  - geospatial
+  - forest
 ---
 
-Example Photo
+Example Use Case for Deforestation Monitoring
 
 ```ruby
 def print_hi(name)
